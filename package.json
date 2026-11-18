@@ -1,0 +1,10 @@
+{
+  "name": "agency-agents-web",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Searchable web catalog for The Agency — specialized AI agent personas, divisions, tools, and NEXUS runbooks.",
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build-web.mjs"
+  }
+}
